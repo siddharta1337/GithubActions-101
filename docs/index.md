@@ -1,1 +1,11 @@
-<h1>hello world </h1>
+<h1> My Package documentation </h1>
+
+
+<p>Thanks for using this demo package!  </p>
+
+
+<h2> How to install </h2>
+
+- first
+- second
+- third
